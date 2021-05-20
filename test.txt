@@ -2,3 +2,4 @@ control version with git
 - Update file to test github
 - Update file to tool from github
 - Pik test
+- 2.Pik test edit of remote
